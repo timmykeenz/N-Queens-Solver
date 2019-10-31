@@ -9,7 +9,7 @@ import java.util.*;  //used for input
 * in which a brute-force solution to the N-Queens Problem was implemented
 * using a LinkedStack ADT.
 *
-* @author Daniel Breslawski, Timothy Keene
+* @author Daniel Breslawski, Timothy Keenan
 *
 ******************************************************************************/
 class QueenSimulation {
